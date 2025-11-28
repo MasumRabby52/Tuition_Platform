@@ -778,3 +778,73 @@ section{
 .watch-video .video-container .info p{
    font-size: 1.6rem;
 }
+
+.watch-video .video-container .info p span{
+   color: var(--light-color);
+}
+
+.watch-video .video-container .info i{
+   margin-right: 1rem;
+   color: var(--main-color);
+}
+
+.watch-video .video-container .tutor{
+   display: flex;
+   align-items: center;
+   gap: 2rem;
+   margin-bottom: 1rem;
+}
+
+.watch-video .video-container .tutor img{
+   border-radius: 50%;
+   height: 5rem;
+   width: 5rem;
+   object-fit: cover;
+}
+
+.watch-video .video-container .tutor h3{
+   font-size: 2rem;
+   color: var(--black);
+   margin-bottom: .2rem;
+}
+
+.watch-video .video-container .tutor span{
+   font-size: 1.5rem;
+   color: var(--light-color);
+}
+
+.watch-video .video-container .flex{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 1.5rem;
+}
+
+.watch-video .video-container .flex button{
+   border-radius: .5rem;
+   padding: 1rem 1.5rem;
+   font-size: 1.8rem;
+   cursor: pointer;
+   background-color: var(--light-bg);
+}
+
+.watch-video .video-container .flex button i{
+   margin-right: 1rem;
+   color: var(--black);
+}
+
+.watch-video .video-container .flex button span{
+   color: var(--light-color);
+}
+
+.watch-video .video-container .flex button:hover{
+   background-color: var(--black);
+}
+
+.watch-video .video-container .flex button:hover i{
+   color: var(--white);
+}
+
+.watch-video .video-container .flex button:hover span{
+   color: var(--white);
+}
