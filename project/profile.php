@@ -113,7 +113,7 @@ $total_bookmarked = $select_bookmark->rowCount();
 
 <footer class="footer">
 
-   &copy; copyright @ 2022 by <span>mr. web designer</span> | all rights reserved!
+   &copy; copyright @ 2025 by <span>Kamrul Hasan and Masum Rabby</span> | all rights reserved!
 
 </footer>
 

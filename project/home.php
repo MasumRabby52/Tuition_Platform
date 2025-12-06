@@ -95,15 +95,15 @@ $total_bookmarked = $select_bookmark->rowCount();
             <a href="#"><i class="fab fa-html5"></i><span>HTML</span></a>
             <a href="#"><i class="fab fa-css3"></i><span>CSS</span></a>
             <a href="#"><i class="fab fa-js"></i><span>javascript</span></a>
-            <a href="#"><i class="fab fa-react"></i><span>react</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-bootstrap"></i><span>bootstrap</span></a>
+            <a href="#"><i class="fab fa-react"></i><span>Python</span></a>
+            <a href="#"><i class="fab fa-database"></i><span>Mysql</span></a>
+            <a href="#"><i class="fab fa-bootstrap"></i><span>Data Science</span></a>
          </div>
       </div>
 
       <div class="box tutor">
          <h3 class="title">become a tutor</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, laudantium.</p>
+         <p>If you want to be a tutor then click here...</p>
          <a href="admin/register.php" class="inline-btn">get started</a>
       </div>
 
